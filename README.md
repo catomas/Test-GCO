@@ -15,4 +15,4 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Open []() to see the deploy
+Open [https://test-gco.vercel.app/](https://test-gco.vercel.app/) to see the deploy
